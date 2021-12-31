@@ -1,0 +1,35 @@
+참고자료:
+
+대한민국 행정동 구역 경계
+https://github.com/vuski/admdongkor/blob/master/ver20210701/HangJeongDong_ver20210701.geojson
+
+대전광역시 자치구별 신용카드 매출액 (KB 국민카드)
+2020.07.31
+공공데이터포털
+
+Pandas - 열 값을 기준으로 중복된 행 병합
+https://codesample-factory.tistory.com/793
+
+Generate polygons to fill under 3D line graph
+https://matplotlib.org/3.3.3/gallery/mplot3d/polys3d.html
+
+지도 위치 찾기
+https://ericnjennifer.github.io/python_visualization/2018/01/21/PythonVisualization_Chapt6.html
+
+mapshaper (shp to geojson)
+https://mapshaper.org/
+
+geojson 병합
+https://mjs1995.tistory.com/169
+
+대한민국 최신 행정구역(SHP)
+http://www.gisdeveloper.co.kr/?p=2332
+
+geo data merger
+https://funkeinteraktiv.github.io/geo-data-merger/
+
+clonopleth key_on Error
+https://www.inflearn.com/questions/84113
+
+Matplotlib 이중 y축 표시하기
+https://codetorial.net/matplotlib/double_y_axis.html
